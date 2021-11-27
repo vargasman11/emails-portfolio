@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HtmlEmail--Project-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mock-Html-Email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codingPhaseEmail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mjml_email_AR-logistics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promo-email-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/promo-email-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rr-promo-email-2" vcs="Git" />
+  </component>
+</project>
