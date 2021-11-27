@@ -1,0 +1,104 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all padding="0px"></mj-all>
+            <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 25px" font-size="13px"></mj-text>
+            <mj-section background-color="#ffffff"></mj-section>
+            <mj-class name="preheader" color="#000000" font-size="11px"></mj-class>
+        </mj-attributes>
+        <mj-style inline="inline">
+            a {
+            text-decoration: none !important;
+            color: inherit !important;
+        }
+            li, p{
+                font-size: 16px;
+                color: #707070;
+            }
+            h4{
+            color: #28366c;
+                font-size: 20px;
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+            ul{
+            margin-top: 1px;
+            }
+            a{
+                text-decoration: none;
+                font-family: Roboto;
+                font-size: 18px;
+                font-weight: bold;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#eeeeee">
+        <mj-section background-color="#28366c" border-bottom="solid 5px #f2b946">
+            <mj-column width="100%">
+                <mj-image width="200px"
+                          src="https://www.conversionia.com/eblasts/A&R%20eblast%20assets/A_R%20newLogo%20Hi%20Res@2x.png"
+                          alt="header image" padding="20px 0px"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="600px"
+                          src="https://www.conversionia.com/eblasts/A&R%20eblast%20assets/A&R_2021_EblastHeader.png"/>
+            </mj-column>
+        </mj-section>
+        <!--        white bg text-->
+        <mj-section>
+            <mj-column>
+                <mj-text font-family="Roboto Condensed" padding-top="20px">
+                    <p>That’s why our referral program pays you to pass the word!
+                        When you refer a qualified driver for A&R Logistics Local/Regional or Over-the-Road CDL-A jobs,
+                        you’ll earn $6,000 (paid out at $250 monthly for 24 months)
+                    </p>
+                </mj-text>
+                <mj-text font-family="Roboto Condensed" padding-bottom="20px">
+                    <h4>Know someone who would be a good fit? Keep in mind:
+                    </h4>
+                    <ul>
+                        <li>Be sure your name is on your referral’s application!</li>
+                        <li>Referrer and referral must be with A&R at time of payout.</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--        grey bg text-->
+        <mj-section background-color="#e4e4e4" padding-top="10px" padding-bottom="20px">
+            <mj-column>
+                <mj-text font-family="Roboto Condensed">
+                    <h4>Tell Them</h4>
+                    <ul>
+                        <li>A&R drivers earn in the top 10% of truck driver pay nationwide</li>
+                        <li>Excellent home time on Local/Regional or Over-the-Road runs</li>
+                        <li>Up to $12,000 sign-on bonus</li>
+                        <li>Full benefits for company drivers</li>
+                        <li>Paid orientation & training</li>
+
+                    </ul>
+                </mj-text>
+                <mj-text>
+                    <p>All drivers and non-drivers are eligible with exception to those who are involved in the hiring decision or process.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#f2b946" border-bottom="solid 8px #28366c">
+            <mj-column>
+                <mj-text font-family="Roboto Condensed" align="center" color="#28366c;" padding="15px 0px">
+                    <a href="https://www.drivear.com/jobs">Referrals should be directed to www.drivear.com/jobs</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+<!--        Footer image-->
+        <mj-section background-color="#28366c">
+            <mj-column width="100%">
+                <mj-image width="600px"
+                          src="https://www.conversionia.com/eblasts/A&R%20eblast%20assets/_Updated-Comgined.png"
+                          alt="header image" padding="0px"></mj-image>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

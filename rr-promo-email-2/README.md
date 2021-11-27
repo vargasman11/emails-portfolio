@@ -1,0 +1,3 @@
+# promo-email-2
+This email was built with inline css. Currently in production and monitored and sent with Campaign Monitor and Mailchimp. Emails were built with templates to be compatible with most major Email clients. Tested with Mailchimp inliner tools.
+

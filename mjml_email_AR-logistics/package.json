@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mjml": "^4.9.3",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "mjml": "mjml -w index.mjml"
+  }
+}
